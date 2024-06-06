@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="fr" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://biozin.eu/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://biozin.eu/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://biozin.eu/collections/all.atom"/>
+  <title>BioZin²</title>
+  <updated>2023-12-05T16:31:55+01:00</updated>
+  <author>
+    <name>BioZin²</name>
+  </author>
+  <entry>
+    <id>https://biozin.eu/products/8782454554956</id>
+    <published>2023-12-05T16:31:55+01:00</published>
+    <updated>2023-12-05T16:31:55+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://biozin.eu/products/biozin"/>
+    <title>BioZin²</title>
+    <s:type></s:type>
+    <s:vendor>BioZin²</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0793/6580/0268/files/BIOZIN-V2-GOOD_01959424-e859-437e-9e59-a297c79a6d05.jpg?v=1706738738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>BioZin²<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            34.99 - 99.00
+            <a href="https://biozin.eu/products/biozin">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<div data-mce-fragment="1" title="Page 1" class="page">
+<div data-mce-fragment="1" class="section">
+<div data-mce-fragment="1" class="layoutArea">
+<div data-mce-fragment="1" class="column">
+<p data-mce-fragment="1"><span data-mce-fragment="1">BioZin²</span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">est un complément alimentaire d'origine naturelle, conçu en Suisse et fabriqué en France, qui vous accompagne tout au long du mois. Un seul flacon par mois suffit pour bénéficier de ses nombreux bienfaits :</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>⚡️ Plus d’Énergie </strong>: Redécouvrez la vitalité et l'énergie qui vous permettront de mener à bien toutes vos activités. (Découvrez les études ici)<br><strong>💡 Meilleur Focus </strong>: Améliorez votre concentration et votre clarté d'esprit pour une productivité accrue. (Explorez les recherches ici)<br><strong>👟 Performances Sportives Optimisées </strong>: Atteignez de nouveaux sommets dans vos activités sportives grâce à une endurance et une force améliorées.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">—</span></p>
+<div class="page" title="Page 1">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span><meta charset="UTF-8"> <strong>BioZin² </strong></span><span>a été conçu pour répondre à toutes vos attentes en matière de complément alimentaire, tout en éliminant les obstacles à une routine saine. Voici ce qui rend <meta charset="UTF-8">BioZin² </span><span>unique :</span></p>
+<div class="page" title="Page 1">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><strong>📅 Une Prise par Mois </strong><span>: Simplicité et efficacité pour une action continue tout au long du mois.</span><br><strong>📦 Système d’Abonnement Facile </strong><span>: Recevez votre flacon de BioZin²</span><span> </span><span>directement dans votre boîte aux lettres chaque mois, sans effort de votre part.</span><br><strong>🥬 Composition 100% Naturelle et Locale </strong><span>: Bénéficiez d’ingrédients naturels de qualité, soigneusement sélectionnés et produits en France.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul></ul>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://biozin.eu/products/8782454554956</id>
+      <title>1 flacon (1 mois)</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://biozin.eu/products/8782454554956</id>
+      <title>3 flacons (3 mois)</title>
+      <s:price currency="EUR">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
